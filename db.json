@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "d501e6d9-32f0-4ff2-9873-629471220a2e",
+    "originalName": "The penetration test targeted the c.txt",
+    "uploadDate": "2026-09-25T10:49:26.601Z",
+    "content": "The penetration test targeted the company’s public-facing login portal to identify security weaknesses. The main vulnerability discovered was an unauthenticated SQL injection in the username field, which was successfully exploited to bypass the login screen entirely. This presents a Critical risk to the organization, as it allows any external attacker to gain full administrative access to the backend database, potentially leading to the theft of all customer records and sensitive company data"
+  }
+]
